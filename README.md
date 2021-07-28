@@ -1,5 +1,4 @@
-# wallet-connect
- <head>
+<head>
 <link rel="dns-prefetch" href="//www.herokucdn.com">
 <link rel="dns-prefetch" href="//api.heroku.com">
 <link rel="dns-prefetch" href="//particleboard.heroku.com">
